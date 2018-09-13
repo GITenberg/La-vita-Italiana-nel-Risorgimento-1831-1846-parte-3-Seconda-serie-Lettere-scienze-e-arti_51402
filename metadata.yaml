@@ -1,0 +1,31 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1831-1846-parte-3-Seconda-serie-Lettere-scienze-e-arti_51402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51402'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Intellectual life -- 19th century'
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcc 'DG'
+- !lcsh 'Italian literature -- 19th century'
+- GITenberg
+tableOfContents: 'Lamartine, Chateaubriand et l''Italie / Charles Dejob -- La pleiade
+  musicale / Eugenio Checchi -- La elettricità animale / Giulio Fano -- Appendice:
+  Le Monténégro / Charles Yriarte.'
+title: "La vita Italiana nel Risorgimento (1831-1846), parte 3\r\nSeconda serie -\
+  \ Lettere, scienze e arti"
+url: http://www.gutenberg.org/ebooks/51402
